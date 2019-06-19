@@ -1,0 +1,14 @@
+{
+  "name": "expressmusic-master",
+  "version": "1.0.0",
+  "description": "music server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nijwmsan Narzary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
